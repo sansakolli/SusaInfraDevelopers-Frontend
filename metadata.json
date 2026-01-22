@@ -1,0 +1,7 @@
+{
+  "name": "SUSA Infra Developers",
+  "description": "Premium Real Estate and Construction Services in Vizianagaram. Find your dream plot or build your dream home.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
