@@ -31,14 +31,14 @@ const Construction: React.FC = () => {
           <h2 className="text-2xl font-bold text-brand-dark mb-6 border-l-4 border-brand-orange pl-4">Work in Progress</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="relative rounded-xl overflow-hidden group shadow-md hover:shadow-lg transition-shadow">
-              <img src="assets/construction/site-1.png" className="w-full h-64 object-cover transition-transform duration-500 group-hover:scale-110" alt="Construction Site" />
+              <img src="./assets/construction/site-1.png" className="w-full h-64 object-cover transition-transform duration-500 group-hover:scale-110" alt="Construction Site" />
               <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/90 to-transparent p-6">
                 <div className="text-white font-bold text-lg">Vuda Colony Phase 4</div>
                 <div className="text-brand-orange text-xs font-bold uppercase tracking-wider">Foundation Work</div>
               </div>
             </div>
             <div className="relative rounded-xl overflow-hidden group shadow-md hover:shadow-lg transition-shadow">
-              <img src="assets/construction/site-2.png" className="w-full h-64 object-cover transition-transform duration-500 group-hover:scale-110" alt="Construction Site" />
+              <img src="./assets/construction/site-2.png" className="w-full h-64 object-cover transition-transform duration-500 group-hover:scale-110" alt="Construction Site" />
               <div className="absolute bottom-0 left-0 right-0 bg-gradient-to-t from-black/90 to-transparent p-6">
                 <div className="text-white font-bold text-lg">Client: Mr. Rao</div>
                 <div className="text-brand-orange text-xs font-bold uppercase tracking-wider">Slab Work</div>

@@ -2,12 +2,12 @@ import React from 'react';
 
 const Gallery: React.FC = () => {
   const images = [
-    "assets/gallery/gallery-1.png",
-    "assets/gallery/gallery-2.png",
-    "assets/gallery/gallery-3.png",
-    "assets/gallery/gallery-4.png",
-    "assets/gallery/gallery-5.png",
-    "assets/gallery/gallery-6.png",
+    "./assets/gallery/gallery-1.png",
+    "./assets/gallery/gallery-2.png",
+    "./assets/gallery/gallery-3.png",
+    "./assets/gallery/gallery-4.png",
+    "./assets/gallery/gallery-5.png",
+    "./assets/gallery/gallery-6.png",
   ];
 
   return (
