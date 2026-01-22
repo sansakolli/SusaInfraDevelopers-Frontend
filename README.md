@@ -1,20 +1,55 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# SUSA Infra Developers
 
-# Run and deploy your AI Studio app
+A professional, localized real estate and construction services platform for **SUSA Infra Developers**, based in Vizianagaram, Andhra Pradesh.
 
-This contains everything you need to run your app locally.
+![GitHub last commit](https://img.shields.io/github/last-commit/sansakolli/SusaInfraDevelopers-Frontend)
+![GitHub top language](https://img.shields.io/github/languages/top/sansakolli/SusaInfraDevelopers-Frontend)
 
-View your app in AI Studio: https://ai.studio/apps/drive/1sg_yagn0s5Sl9sIt0Q0GZIYLvWmOzRtV
+## 🌐 Live Demo
+Visit the live website here: **[https://sansakolli.github.io/SusaInfraDevelopers-Frontend](https://sansakolli.github.io/SusaInfraDevelopers-Frontend)**
 
-## Run Locally
+## 🚀 Key Features
+- **Professional Imagery**: Custom AI-generated high-resolution assets reflecting the local Andhra/Vizianagaram context.
+- **Telugu Localization**: Bilingual support for venture details and founder's mission to better connect with local families.
+- **Venture Portfolio**: Detailed showcases for major projects like Ocean City, Smart City, and Green Meadows.
+- **Construction Services**: Comprehensive information on residential construction and brick manufacturing.
+- **Responsive Design**: optimized for desktop and mobile devices.
+- **Interactive Maps**: (Planned) Embedded locations for all ventures.
 
-**Prerequisites:**  Node.js
+## 🛠️ Tech Stack
+- **Framework**: React 19 (Vite)
+- **Styling**: Tailwind CSS
+- **Icons**: Lucide React
+- **Navigation**: React Router DOM
 
+## 📦 Local Setup
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/sansakolli/SusaInfraDevelopers-Frontend.git
+   cd SusaInfraDevelopers-Frontend
+   ```
+
+2. **Install dependencies:**
+   ```bash
+   npm install
+   ```
+
+3. **Run in development mode:**
+   ```bash
+   npm run dev
+   ```
+
+4. **Build for production:**
+   ```bash
+   npm run build
+   ```
+
+## 🤝 Contact
+- **Founder**: Dileep Kumar
+- **Phone**: 70364 60191
+- **Email**: susainfradevelopers@gmail.com
+- **Address**: Opp. Venkateswara Swamy Temple Arch, Ring Road, Vizianagaram - 535002
+
+---
+Developed with focus on trust, transparency, and quality real estate.
