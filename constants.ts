@@ -6,7 +6,7 @@ export const FOUNDER: Founder = {
   role: "Founder & CEO",
   experience: "7+ Years Experience",
   bio: "With a background in M-Pharmacy and over 7 years of dedicated experience in real estate, I founded SUSA Infra Developers with a vision to provide litigation-free, high-quality plots and construction services to families in Vizianagaram. (మధ్యతరగతి కుటుంబాల సొంతింటి కలను నిజం చేయడమే నా లక్ష్యం)",
-  image: "/assets/founder-silhouette.png"
+  image: "assets/founder-silhouette.png"
 };
 
 export const CONTACT_INFO = {
@@ -24,7 +24,7 @@ export const VENTURES: Venture[] = [
     status: "Ongoing",
     description: "A premium layout located near the upcoming international airport region. Perfect for investment and future housing. (భోగాపురం విమానాశ్రయం దగ్గరలో)",
     area: "25 Acres",
-    image: "/assets/ocean-city.png",
+    image: "assets/ocean-city.png",
     highlights: ["Near Beach Resort (బీచ్ రిసార్ట్ దగ్గర)", "Close to National Highway (జాతీయ రహదారికి దగ్గర)", "Airport Zone (ఎయిర్ పోర్ట్ జోన్)"],
     amenities: ["Park", "Drainage System", "Electricity", "40ft Black Top Roads", "Avenue Plantation"],
     mapEmbedUrl: "https://www.google.com/maps/embed?pb=..."
@@ -36,7 +36,7 @@ export const VENTURES: Venture[] = [
     status: "Ongoing",
     description: "An intelligent community design focusing on modern living standards with high appreciation potential. (అద్భుతమైన సౌకర్యాలతో ఆధునిక కమ్యూనిటీ)",
     area: "15 Acres",
-    image: "/assets/smart-city.png",
+    image: "assets/smart-city.png",
     highlights: ["Gated Community Feel (వ్యూహాత్మక ప్రదేశం)", "Spot Registration (స్పాట్ రిజిస్ట్రేషన్)", "Vaastu Compliant (100% వాస్తు)"],
     amenities: ["Children's Park", "Street Lights", "Water Facility", "Compound Wall"],
     mapEmbedUrl: "https://www.google.com/maps/embed?pb=..."
@@ -48,7 +48,7 @@ export const VENTURES: Venture[] = [
     status: "Completed",
     description: "Successfully completed project with over 100 happy families. (100+ కుటుంబాలతో విజయవంతంగా పూర్తయిన వెంచర్)",
     area: "10 Acres",
-    image: "/assets/green-meadows.png",
+    image: "assets/green-meadows.png",
     highlights: ["Sold Out (అమ్మకం పూర్తయింది)", "High Appreciation (అధిక విలువ)", "Residential Zone (నివాస ప్రాంతం)"],
     amenities: ["All Basic Amenities"]
   }

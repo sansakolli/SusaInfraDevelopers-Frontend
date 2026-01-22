@@ -10,7 +10,7 @@ const Home: React.FC = () => {
       <section className="relative h-[80vh] md:h-[650px] flex items-center justify-center text-white overflow-hidden rounded-b-[2.5rem] md:rounded-b-[4rem] shadow-2xl z-10">
         <div className="absolute inset-0 bg-gradient-to-b from-black/20 via-black/40 to-brand-navy/90 z-10" />
         <img
-          src="/assets/hero-bg.png"
+          src="assets/hero-bg.png"
           alt="SUSA Infra Ventures"
           className="absolute inset-0 w-full h-full object-cover animate-fade-in scale-105"
         />
